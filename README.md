@@ -1,6 +1,6 @@
 # Duke Datathon 2020
 
-Note: If the following setup steps do not work for you, please refer to the [GitHub page for the Jupyter Notebook](https://github.com/joydeepm02/duke-datathon-2020/blob/master/main.ipynb). Although this will not be interactive, all relevant cell output can be viewed on this rendering, except for one image, which has been linked here.
+Note: If the following setup steps do not work for you, please refer to the [GitHub page for the Jupyter Notebook](https://github.com/joydeepm02/duke-datathon-2020/blob/master/main.ipynb). Although this will not be interactive, all relevant cell output can be viewed on this rendering, except for one image, which has been linked [here](https://github.com/joydeepm02/duke-datathon-2020/blob/master/resources/RSA_Choropleth_Plot.png).
 
 ## Setup
 
